@@ -1,0 +1,36 @@
+在python中程序结构分为3种：
+
+顺序结构
+
+
+分支结构
+
+
+循环结构
+
+
+
+
+顺序结构就是从上往下执行。
+
+
+
+分支结构： 判断条件不用小括号包起来，这点和c、java 不同。 python是通过缩进来进行代码块的划分的，c 和 java 都是通过{} 来进来代码块划分的。
+if..   
+
+if..else..
+
+
+if..elif..elif..else..    这个和 c、java 不一样，c 和 java 的是 else if (xx), python  是 elif
+
+
+循环结构：
+while x: 
+    xx
+
+for .. in ..   这种形式有个变体就是 [x for i in x]   结果是一个列表，当然还可以有字典等
+
+python 中的循环还可以加上一个 else,表示循环退出条件时执行的语句
+
+
+python 中没有 do..while 循环，这一点和 c、java 不一样
