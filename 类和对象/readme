@@ -1,0 +1,37 @@
+python 也是面向对象的语言和 java 一样
+
+类的定义：
+
+class  类名(需要继承的类):
+    xx
+
+和 java 中的类不一样，java 中的类前面有一个访问控制符。python 没有，python是裸的
+
+继承的类的写法也不一样，python 是一个 (继承的类),java 的是：
+class Student extends Person{
+
+
+
+}
+
+然后用括号包裹类体。
+python 是采用的缩进。
+
+
+python 中自带一个无参构造方法。如果定义了其他的构造方法，默认的无参构造就会被去掉。
+
+python中的构造方法：
+def __init__(self,age,name):
+    self.name = name
+    self.age = age
+
+java中的构造方法：
+public Student(String name,int age){
+  this.name = name;
+  this.age = age;
+}
+
+python 中用 this 代表当前调用的对象。
+java 中用 self 代表当前调用的对象。
+
+
