@@ -35,3 +35,4 @@ python 中用 this 代表当前调用的对象。
 java 中用 self 代表当前调用的对象。
 
 
+python 中的访问控制只有两种：私有和公开；java中有四种:private default  protected  public
