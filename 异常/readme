@@ -1,0 +1,15 @@
+python 中的异常结构是：
+
+try:
+    xx
+except (xx ) as e:
+    xx
+else:
+    xx
+finally:
+    xx
+
+
+
+
+raise 可以用来产生异常。
