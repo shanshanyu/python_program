@@ -22,6 +22,8 @@ if..else..
 
 
 if..elif..elif..else..    这个和 c、java 不一样，c 和 java 的是 else if (xx), python  是 elif
+  
+python3 中没有 switch 分支语句，c 和 java 中都有。
 
 
 循环结构：

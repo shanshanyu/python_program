@@ -1,22 +1,25 @@
 变量的类型有：
 
 
-数值类型：   int  float  double，python3 数据不用 long 了，python2 的时候还分 long  和 int
+数值类型：  
+   int  float  ,python3 数据不用 long 了，python2 的时候还分 long  和 int
   布尔类型 True  False 也放在数值类型里面，True 当 1 用，False 当 0 用
 
+  python3 中没有 double 类型，整数就是 int，浮点数就是float，布尔值就是 bool
 
-字符串类型：  
-单引号： '' 
-双引号：  ""  
-三引号：  '''  '''    “”“   ”“”
-
-
-列表
-
+非数值类型：
+  字符串类型：  
+  单引号： '' 
+  双引号：  ""  
+  三引号：  '''  '''    “”“   ”“”
 
 
-元组
+  列表
 
 
 
-字典
+  元组
+
+
+
+  字典
